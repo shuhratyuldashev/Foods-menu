@@ -1,0 +1,376 @@
+ [
+  {
+    "category": "Салаты",
+    "items": [
+      {
+        "title": "Солёноое ассорти",
+        "price": "11.000 UZS",
+        "imageUrl": "/"
+      },
+      {
+        "title": "Свежий ассорти",
+        "price": "18.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Сузма",
+        "price": "10.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Ачик-чучук",
+        "price": "13.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Чирокчи",
+        "price": "15.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Зелень ассорти",
+        "price": "12.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Цезарь",
+        "price": "28.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Мужской каприз",
+        "price": "28.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Греческий",
+        "price": "28.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Винегрет",
+        "price": "18.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Мимоза",
+        "price": "25.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Оливье",
+        "price": "20.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Весенний",
+        "price": "10.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Японский",
+        "price": "28.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Смак",
+        "price": "20.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Дамский каприз",
+        "price": "27.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Французский",
+        "price": "25.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Чобан",
+        "price": "18.000 UZS",
+        "imageUrl": ""
+      }
+    ]
+  },{
+    "category": "Первые блюда",
+    "items": [
+      {
+        "title": "Шурва",
+        "price": "22.000 UZS",
+        "imageUrl": "src/shared/assets/images/Shurva.jpg"
+      },
+      {
+        "title": "Мастава",
+        "price": "22.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Пельмен",
+        "price": "22.000 UZS",
+        "imageUrl": "src/shared/assets/images/Chuchvara.jpg"
+      },
+      {
+        "title": "Лагман уйгурский",
+        "price": "27.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Тушёнка",
+        "price": "33.000 UZS",
+        "imageUrl": "src/shared/assets/images/Tushonka.jpg"
+      },
+      {
+        "title": "Лапша с фрикадельками",
+        "price": "20.000 UZS",
+        "imageUrl": "src/shared/assets/images/Lapsha-s-frikodelkami.jpg"
+      },
+      {
+        "title": "Куза шурва",
+        "price": "25.000 UZS",
+        "imageUrl": "src/shared/assets/images/Kuza shurva.jpg"
+      },
+      {
+        "title": "Балаза по Бухарский",
+        "price": "24.000 UZS",
+        "imageUrl": "src/shared/assets/images/Balaza.JPG"
+      },
+      {
+        "title": "Мошхурда",
+        "price": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Окрошка с мясом",
+        "price": "20.000 UZS",
+        "imageUrl": "src/shared/assets/images/Okroshka.JPG"
+      },
+      {
+        "title": "Кукси",
+        "price": "30.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Булён",
+        "price": "10.000 UZS",
+        "imageUrl": ""
+      }
+    ]
+  },{
+    "category": "Вторые блюда",
+    "items": [
+      {
+        "title": "Плов Комплект",
+        "price": "26.000 / 35.000 UZS",
+        "imageUrl": "src/shared/assets/images/Plov.JPG"
+      },
+      {
+        "title": "Бифштекс",
+        "price": "26.000 UZS",
+        "imageUrl": "src/shared/assets/images/Bishteks.JPG"
+      },
+      {
+        "title": "Ковурма лагман",
+        "price": "28.000 UZS",
+        "imageUrl": "src/shared/assets/images/Qovurma lagmon.JPG"
+      },
+      {
+        "title": "Нарын + казы",
+        "price": "26.000 UZS",
+        "imageUrl": "src/shared/assets/images/Norin.JPG"
+      },
+      {
+        "title": "Бефстроганов",
+        "price": "33.000 UZS",
+        "imageUrl": "src/shared/assets/images/Bistrogan.JPG"
+      },
+      {
+        "title": "Котлет по киевский",
+        "price": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Манты",
+        "price": "35.000 UZS",
+        "imageUrl": "src/shared/assets/images/Manti.JPG"
+      },
+      {
+        "title": "Жиз баранина",
+        "price": "53.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Козон кабоб",
+        "price": "48.000 UZS",
+        "imageUrl": "src/shared/assets/images/Kazon kabob.JPG"
+      },
+      {
+        "title": "Жиз говядина",
+        "price": "55.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Люля кабоб",
+        "price": "30.000 UZS",
+        "imageUrl": "src/shared/assets/images/Lola kabob.JPG"
+      },
+      {
+        "title": "Табака на сливочном масле",
+        "price": "29.000 UZS",
+        "imageUrl": "src/shared/assets/images/Tabaka.JPG"
+      },
+      {
+        "title": "Гуляш",
+        "price": "33.000 UZS",
+        "imageUrl": "src/shared/assets/images/Gulyash.JPG"
+      },
+      {
+        "title": "KFC",
+        "price": "26.000 UZS",
+        "imageUrl": "src/shared/assets/images/Kfc.JPG"
+      },
+      {
+        "title": "Дулма",
+        "price": "28.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Рыба жареная",
+        "price": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Отбивной из курицы с сыром",
+        "price": "28.000 UZS",
+        "imageUrl": "src/shared/assets/images/Куриные отбивной с сыром.JPG"
+      },
+      {
+        "title": "Голубцы",
+        "price": "",
+        "imageUrl": ""
+      }
+    ]
+  },{
+    "category": "Шашлыки",
+    "items": [
+       {
+        "title": "Молотой",
+        "price": "16.000 UZS",
+        "imageUrl": "src/shared/assets/images/Молотый.JPG"
+      },{
+        "title": "Кусковой говядина",
+        "price": "18.000 UZS",
+        "imageUrl": "src/shared/assets/images/Кусковой из говядины.JPG"
+      },{
+        "title": "Печень",
+        "price": "15.000 UZS",
+        "imageUrl": ""
+      },{
+        "title": "Кусковой баранина",
+        "price": "18.000 UZS",
+        "imageUrl": "src/shared/assets/images/Кусковой из говядины.JPG"
+      },{
+        "title": "Куриный",
+        "price": "16.000 UZS",
+        "imageUrl": "src/shared/assets/images/Кусковой из говядины.JPG"
+      },{
+        "title": "Овощной",
+        "price": "15.000 UZS",
+        "imageUrl": ""
+      },{
+        "title": "Филе",
+        "price": "22.000 UZS",
+        "imageUrl": ""
+      },{
+        "title": "Бараньи ребрышки",
+        "price": "37.000 UZS",
+        "imageUrl": "src/shared/assets/images/Бараньи рёбрышки в мангале.JPG"
+      },{
+        "title": "Крылышки",
+        "price": "28.000 UZS",
+        "imageUrl": "src/shared/assets/images/Крылышки в мангале.JPG"
+      },{
+        "title": "Куриное бедро",
+        "price": "29.000 UZS",
+        "imageUrl": ""
+      },{
+        "title": "Кофта кебаб",
+        "price": "34.000 UZS",
+        "imageUrl": ""
+      },{
+        "title": "Ассорти",
+        "price": "300.000 / 500.000 UZS",
+        "imageUrl": ""
+      }
+    ]
+  },{
+    "category": "Гарнир",
+    "items": [
+      {
+        "title": "Фри",
+        "price": "10.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Рис",
+        "price": "9.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Гречка",
+        "price": "9.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Пюре",
+        "price": "9.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Чипсы",
+        "price": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Лимон",
+        "price": "7.000 UZS",
+        "imageUrl": ""
+      }
+    ]
+  },{
+    "category": "Напитки",
+    "items": [
+      {
+        "title": "Кола-фанта",
+        "price": "15.000 / 12.00 / 7.000 / 4.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Вода",
+        "price": "5.000 / 4.000 / 3.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Сок",
+        "price": "14.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Компот",
+        "price": "15.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Кофе",
+        "price": "6.000 UZS",
+        "imageUrl": ""
+      },
+      {
+        "title": "Чай / Чай с лимоном",
+        "price": "2.000 / 7.000 UZS",
+        "imageUrl": ""
+      }
+    ]
+  }
+ ]
