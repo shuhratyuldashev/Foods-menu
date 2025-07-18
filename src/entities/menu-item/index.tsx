@@ -20,9 +20,9 @@ const MenuItem = ({ title, price, imageUrl, onEnter, category }: MenuItemProps) 
 
   React.useEffect(() => {
     if (inView) {
-      // setTimeout(() => {
+      setTimeout(() => {
         onEnter(category, true);
-      // }, 100)
+      }, 100)
     }
   }, [inView]);
 
