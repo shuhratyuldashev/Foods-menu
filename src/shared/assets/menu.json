@@ -100,52 +100,52 @@
       {
         "title": "Шурва",
         "price": "22.000 UZS",
-        "imageUrl": "public/images/Shurva.jpg"
+        "imageUrl": "/images/Shurva.jpg"
       },
       {
         "title": "Мастава",
         "price": "29.000 UZS",
-        "imageUrl": "public/images/mastava.jpg"
+        "imageUrl": "/images/mastava.jpg"
       },
       {
         "title": "Пельмен",
         "price": "22.000 UZS",
-        "imageUrl": "public/images/Chuchvara.jpg"
+        "imageUrl": "/images/Chuchvara.jpg"
       },
       {
         "title": "Лагман уйгурский",
         "price": "27.000 UZS",
-        "imageUrl": "public/images/Lag’mon.JPG"
+        "imageUrl": "/images/Lag’mon.JPG"
       },
       {
         "title": "Тушёнка",
         "price": "33.000 UZS",
-        "imageUrl": "public/images/Tushonka.jpg"
+        "imageUrl": "/images/Tushonka.jpg"
       },
       {
         "title": "Лапша с фрикадельками",
         "price": "20.000 UZS",
-        "imageUrl": "public/images/Lapsha-s-frikodelkami.jpg"
+        "imageUrl": "/images/Lapsha-s-frikodelkami.jpg"
       },
       {
         "title": "Куза шурва",
         "price": "25.000 UZS",
-        "imageUrl": "public/images/Kuza shurva.jpg"
+        "imageUrl": "/images/Kuza shurva.jpg"
       },
       {
         "title": "Балаза по Бухарский",
         "price": "24.000 UZS",
-        "imageUrl": "public/images/Balaza.JPG"
+        "imageUrl": "/images/Balaza.JPG"
       },
       {
         "title": "Окрошка с мясом",
         "price": "20.000 UZS",
-        "imageUrl": "public/images/Okroshka.JPG"
+        "imageUrl": "/images/Okroshka.JPG"
       },
       {
         "title": "Кукси",
         "price": "30.000 UZS",
-        "imageUrl": "public/images/kuksi.jpg"
+        "imageUrl": "/images/kuksi.jpg"
       },
       {
         "title": "Булён",
@@ -160,27 +160,27 @@
       {
         "title": "Плов Комплект",
         "price": "26.000 / 35.000 UZS",
-        "imageUrl": "public/images/Plov.JPG"
+        "imageUrl": "/images/Plov.JPG"
       },
       {
         "title": "Бифштекс",
         "price": "26.000 UZS",
-        "imageUrl": "public/images/Bishteks.JPG"
+        "imageUrl": "/images/Bishteks.JPG"
       },
       {
         "title": "Ковурма лагман",
         "price": "28.000 UZS",
-        "imageUrl": "public/images/Qovurma lagmon.JPG"
+        "imageUrl": "/images/Qovurma lagmon.JPG"
       },
       {
         "title": "Нарын + казы",
         "price": "26.000 UZS",
-        "imageUrl": "public/images/Norin.JPG"
+        "imageUrl": "/images/Norin.JPG"
       },
       {
         "title": "Бефстроганов",
         "price": "33.000 UZS",
-        "imageUrl": "public/images/Bistrogan.JPG"
+        "imageUrl": "/images/Bistrogan.JPG"
       },
       {
         "title": "Котлет по киевский",
@@ -190,17 +190,17 @@
       {
         "title": "Манты",
         "price": "35.000 UZS",
-        "imageUrl": "public/images/Manti.JPG"
+        "imageUrl": "/images/Manti.JPG"
       },
       {
         "title": "Жиз баранина",
         "price": "53.000 UZS",
-        "imageUrl": "public/images/jizbaranina.JPG"
+        "imageUrl": "/images/jizbaranina.JPG"
       },
       {
         "title": "Козон кабоб",
         "price": "48.000 UZS",
-        "imageUrl": "public/images/Kazon kabob.JPG"
+        "imageUrl": "/images/Kazon kabob.JPG"
       },
       {
         "title": "Жиз говядина",
@@ -210,22 +210,22 @@
       {
         "title": "Люля кабоб",
         "price": "30.000 UZS",
-        "imageUrl": "public/images/Lola kabob.JPG"
+        "imageUrl": "/images/Lola kabob.JPG"
       },
       {
         "title": "Табака на сливочном масле",
         "price": "29.000 UZS",
-        "imageUrl": "public/images/Tabaka.JPG"
+        "imageUrl": "/images/Tabaka.JPG"
       },
       {
         "title": "Гуляш",
         "price": "33.000 UZS",
-        "imageUrl": "public/images/Gulyash.JPG"
+        "imageUrl": "/images/Gulyash.JPG"
       },
       {
         "title": "KFC",
         "price": "26.000 UZS",
-        "imageUrl": "public/images/Kfc.JPG"
+        "imageUrl": "/images/Kfc.JPG"
       },
       {
         "title": "Дулма",
@@ -240,7 +240,7 @@
       {
         "title": "Отбивной из курицы с сыром",
         "price": "28.000 UZS",
-        "imageUrl": "public/images/Куриные отбивной с сыром.JPG"
+        "imageUrl": "/images/Куриные отбивной с сыром.JPG"
       },
       {
         "title": "Голубцы",
@@ -255,12 +255,12 @@
       {
         "title": "Молотой",
         "price": "16.000 UZS",
-        "imageUrl": "public/images/Молотый.JPG"
+        "imageUrl": "/images/Молотый.JPG"
       },
       {
         "title": "Кусковой говядина",
         "price": "18.000 UZS",
-        "imageUrl": "public/images/Кусковой из говядины.JPG"
+        "imageUrl": "/images/Кусковой из говядины.JPG"
       },
       {
         "title": "Печень",
@@ -270,12 +270,12 @@
       {
         "title": "Кусковой баранина",
         "price": "18.000 UZS",
-        "imageUrl": "public/images/Кусковой из говядины.JPG"
+        "imageUrl": "/images/Кусковой из говядины.JPG"
       },
       {
         "title": "Куриный",
         "price": "16.000 UZS",
-        "imageUrl": "public/images/Кусковой из говядины.JPG"
+        "imageUrl": "/images/Кусковой из говядины.JPG"
       },
       {
         "title": "Овощной",
@@ -290,12 +290,12 @@
       {
         "title": "Бараньи ребрышки",
         "price": "37.000 UZS",
-        "imageUrl": "public/images/Бараньи рёбрышки в мангале.JPG"
+        "imageUrl": "/images/Бараньи рёбрышки в мангале.JPG"
       },
       {
         "title": "Крылышки",
         "price": "28.000 UZS",
-        "imageUrl": "public/images/Крылышки в мангале.JPG"
+        "imageUrl": "/images/Крылышки в мангале.JPG"
       },
       {
         "title": "Куриное бедро",
