@@ -31,7 +31,7 @@ const MenuItem = ({ title, price, imageUrl, onEnter, category }: MenuItemProps) 
       <CardHeader>
         <AspectRatio ratio={4 / 3} className="w-full">
           {imageUrl ? (
-            <img src={imageUrl} loading="lazy" alt="Image" className="h-full w-full object-cover rounded-md bg-gray-300" />
+            <img decoding="async" fetchPriority="high" src={imageUrl} loading="lazy" alt="Image" className="h-full w-full object-cover rounded-md bg-gray-300" />
           ) : (
             <div className="flex items-center justify-center h-full w-full bg-gray-300 rounded-md">Not Image</div>
           )}

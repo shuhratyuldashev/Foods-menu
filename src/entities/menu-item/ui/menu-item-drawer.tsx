@@ -17,7 +17,6 @@ const MenuItemDrawer = ({ title, price, imageUrl }: MenuItemDrawerProps) => (
       <AspectRatio ratio={4 / 3} className="w-full">
         {imageUrl ? (
           <img
-            loading="lazy"
             className="rounded-md h-full w-full object-cover"
             src={imageUrl}
             alt=""
