@@ -24,7 +24,7 @@ interface MenuItemProps {
 const MenuItem = ({ title, price, imageUrl, onEnter, category }: MenuItemProps) => {
   const [isOpen, setIsOpen] = React.useState<boolean>(false);
   const { ref, inView } = useInView({
-    threshold: 1,
+    threshold: 0.5,
   })
 
   React.useEffect(() => {

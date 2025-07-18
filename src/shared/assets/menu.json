@@ -103,8 +103,8 @@
       },
       {
         "title": "Мастава",
-        "price": "22.000 UZS",
-        "imageUrl": ""
+        "price": "29.000 UZS",
+        "imageUrl": "src/shared/assets/images/mastava.jpg"
       },
       {
         "title": "Пельмен",
@@ -114,7 +114,7 @@
       {
         "title": "Лагман уйгурский",
         "price": "27.000 UZS",
-        "imageUrl": ""
+        "imageUrl": "src/shared/assets/images/Lag’mon.JPG"
       },
       {
         "title": "Тушёнка",
@@ -137,11 +137,6 @@
         "imageUrl": "src/shared/assets/images/Balaza.JPG"
       },
       {
-        "title": "Мошхурда",
-        "price": "",
-        "imageUrl": ""
-      },
-      {
         "title": "Окрошка с мясом",
         "price": "20.000 UZS",
         "imageUrl": "src/shared/assets/images/Okroshka.JPG"
@@ -149,7 +144,7 @@
       {
         "title": "Кукси",
         "price": "30.000 UZS",
-        "imageUrl": ""
+        "imageUrl": "src/shared/assets/images/kuksi.jpg"
       },
       {
         "title": "Булён",
@@ -198,7 +193,7 @@
       {
         "title": "Жиз баранина",
         "price": "53.000 UZS",
-        "imageUrl": ""
+        "imageUrl": "src/shared/assets/images/jizbaranina.JPG"
       },
       {
         "title": "Козон кабоб",
