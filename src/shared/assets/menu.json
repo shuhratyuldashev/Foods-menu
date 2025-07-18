@@ -1,4 +1,4 @@
- [
+[
   {
     "category": "Салаты",
     "items": [
@@ -93,7 +93,8 @@
         "imageUrl": ""
       }
     ]
-  },{
+  },
+  {
     "category": "Первые блюда",
     "items": [
       {
@@ -152,7 +153,8 @@
         "imageUrl": ""
       }
     ]
-  },{
+  },
+  {
     "category": "Вторые блюда",
     "items": [
       {
@@ -246,60 +248,73 @@
         "imageUrl": ""
       }
     ]
-  },{
+  },
+  {
     "category": "Шашлыки",
     "items": [
-       {
+      {
         "title": "Молотой",
         "price": "16.000 UZS",
         "imageUrl": "src/shared/assets/images/Молотый.JPG"
-      },{
+      },
+      {
         "title": "Кусковой говядина",
         "price": "18.000 UZS",
         "imageUrl": "src/shared/assets/images/Кусковой из говядины.JPG"
-      },{
+      },
+      {
         "title": "Печень",
         "price": "15.000 UZS",
         "imageUrl": ""
-      },{
+      },
+      {
         "title": "Кусковой баранина",
         "price": "18.000 UZS",
         "imageUrl": "src/shared/assets/images/Кусковой из говядины.JPG"
-      },{
+      },
+      {
         "title": "Куриный",
         "price": "16.000 UZS",
         "imageUrl": "src/shared/assets/images/Кусковой из говядины.JPG"
-      },{
+      },
+      {
         "title": "Овощной",
         "price": "15.000 UZS",
         "imageUrl": ""
-      },{
+      },
+      {
         "title": "Филе",
         "price": "22.000 UZS",
         "imageUrl": ""
-      },{
+      },
+      {
         "title": "Бараньи ребрышки",
         "price": "37.000 UZS",
         "imageUrl": "src/shared/assets/images/Бараньи рёбрышки в мангале.JPG"
-      },{
+      },
+      {
         "title": "Крылышки",
         "price": "28.000 UZS",
         "imageUrl": "src/shared/assets/images/Крылышки в мангале.JPG"
-      },{
+      },
+      {
         "title": "Куриное бедро",
         "price": "29.000 UZS",
         "imageUrl": ""
-      },{
+      },
+      {
         "title": "Кофта кебаб",
         "price": "34.000 UZS",
         "imageUrl": ""
-      },{
+      },
+      {
         "title": "Ассорти",
         "price": "300.000 / 500.000 UZS",
         "imageUrl": ""
       }
     ]
-  },{
+  },
+  {
     "category": "Гарнир",
     "items": [
       {
@@ -333,7 +348,8 @@
         "imageUrl": ""
       }
     ]
-  },{
+  },
+  {
     "category": "Напитки",
     "items": [
       {
@@ -368,4 +384,4 @@
       }
     ]
   }
- ]
+]
